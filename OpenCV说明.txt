@@ -1,0 +1,7 @@
+OpenCV说明
+
+由于OpenCV文件过大，不能上传到仓库中去，所以使用时需要手动下载
+版本：3.4.0
+地址：
+	1. https://github.com/opencv/opencv/releases/tag/3.4.0
+	2. https://sourceforge.net/projects/opencvlibrary/files/opencv-ios/3.4.0/opencv-3.4.0-ios-framework.zip/download
